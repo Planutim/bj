@@ -1,2 +1,2 @@
 # Beejee test repo
-Entry public_html
+DocumentRoot /public_html
