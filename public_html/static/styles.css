@@ -1,0 +1,23 @@
+body{
+  font-size: 24px;
+}
+
+.show{
+  visibility: hidden;
+}
+.hide{
+  visibility: visible;
+}
+
+.clickable{
+  cursor: pointer;
+
+}
+.clickable:hover{
+  background-color: lightblue;
+}
+
+.abc{
+  text-decoration: none;
+
+}
